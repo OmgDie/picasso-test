@@ -1,8 +1,4 @@
-Конечно, вот пример ридми для вашего приложения:
-
 # Приложение на React
-
-![GitHub Pages Deploy Status](https://github.com/omgdie/omgdie.github.io/workflows/GitHub%20Pages%20Deploy/badge.svg)
 
 Это приложение разработано на основе FSD архитектуры и представляет собой простое веб-приложение на React. Оно использует несколько библиотек и технологий, включая react-infinite scroll, react-window, axios и react-dom для роутинга.
 
